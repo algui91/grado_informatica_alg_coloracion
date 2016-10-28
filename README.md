@@ -1,4 +1,4 @@
-grado_informatica_alg_coloracion
-================================
+Coloration problem using greedy algorithms
+==========================================
 
-Práctica 3, Coloración de Grafos con algoritmos voraces
+Assigment 3, greedy algorithm for coloring problem
